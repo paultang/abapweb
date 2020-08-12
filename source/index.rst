@@ -13,6 +13,8 @@ Welcome to GreesLED!
 旅游
 美食
 
+`mikeGithub <https://github.com/mike-zhang>`_
+
 http://example.com/
 
 .. toctree::
