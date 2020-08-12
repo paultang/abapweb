@@ -17,8 +17,7 @@ Welcome to GreesLED!
 
 http://example.com/
 
-.. image:: /photo/Word Art 5.png 
-.. image:: photo/Word Art 5.png 
+.. image:: photo/WordArt5.png 
 
 .. toctree::
    :maxdepth: 2
