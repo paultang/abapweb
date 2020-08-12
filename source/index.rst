@@ -11,6 +11,7 @@ Welcome to ABAP!
 生活
 学习
 旅游
+美食
 
 .. toctree::
    :maxdepth: 2
