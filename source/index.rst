@@ -13,6 +13,8 @@ Welcome to GreesLED!
 旅游
 美食
 
+.. _a link: http://example.com/
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
