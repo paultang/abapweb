@@ -6,13 +6,12 @@
 Welcome to GreesLED!
 ====================
 
-Lighting 
+Lighting
+ Human Cetric Lighting
+ Hotriculture Lighting
+ Automotive Lighting
 ====================
-Power Supply
-====================
-Dimmer
-====================
-Controller
+Strip Light Accessories
 ====================
 Support
 ====================
