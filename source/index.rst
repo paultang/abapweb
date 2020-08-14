@@ -14,7 +14,16 @@ Lighting
  
  Automotive Lighting
 ====================
+
 Strip Light Accessories
+
+Power supply 
+
+Dimmer 
+
+Controller 
+
+Connector
 ====================
 Support
 ====================
