@@ -17,13 +17,13 @@ Lighting
 
 Strip Light Accessories
 
-Power supply 
+  Power supply 
 
-Dimmer 
+  Dimmer 
 
-Controller 
+  Controller 
 
-Connector
+  Connector
 ====================
 Support
 ====================
