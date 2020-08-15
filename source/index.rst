@@ -34,6 +34,10 @@ Support
   Certification Support
 ====================
 About Us
+
+  History
+  
+  Workshop
 ===================
 
 
