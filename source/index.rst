@@ -24,7 +24,9 @@ Strip Light Accessories
   Controller 
 
   Connector
+  
 ====================
+
 Support
   
   Contact us
@@ -32,7 +34,9 @@ Support
   Sales Network
   
   Certification Support
+  
 ====================
+
 About Us
 
   History
