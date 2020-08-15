@@ -8,9 +8,9 @@ Welcome to GreesLED!
 
 Lighting
 
- Human Cetric Lighting
+ Human Centric Lighting
  
- Hotriculture Lighting
+ Horticulture Lighting
  
  Automotive Lighting
 ====================
