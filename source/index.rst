@@ -26,6 +26,12 @@ Strip Light Accessories
   Connector
 ====================
 Support
+  
+  Contact us
+  
+  Sales Network
+  
+  Certification Support
 ====================
 About Us
 ===================
