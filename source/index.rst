@@ -45,16 +45,6 @@ About Us
    
 ===================
 
-
-
-.. image:: photo/WordArt5.png 
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-
-
-
 Indices and tables
 ==================
 
