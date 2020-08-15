@@ -31,7 +31,7 @@ Support
 
   Contact us
   
-  Sales Newwork
+  Sales Network
   
   Certification Support
   
