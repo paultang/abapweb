@@ -2,7 +2,7 @@
    :maxdepth: 3
 
    lighting
-   Accessorise
+   Accessories
    About Us
    Support
    
