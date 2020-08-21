@@ -1,53 +1,5 @@
-.. as better as possible documentation master file, created by
-   sphinx-quickstart on Wed Aug  5 08:38:07 2020.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+.. toctree::
+   :maxdepth: 2
 
-Welcome to GreesLED!
-====================
-
-Lighting
-
- Human Centric Lighting
- 
- Horticulture Lighting
- 
- Automotive Lighting
-====================
-
-Strip Light Accessories
-
-  Power supply 
-
-  Dimmer 
-
-  Controller 
-
-  Connector
+   lighting
   
-====================
-
-Support 
-
-  Contact us
-  
-  Sales Network
-  
-  Certification Support
-  
-===================
-
-About Us
-
-   History
-   
-   Workshop
-   
-===================
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
