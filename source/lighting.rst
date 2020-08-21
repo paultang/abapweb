@@ -13,7 +13,7 @@ Luminous Efficacy: 202 lm/W
 3 subsection
 --------------
 
-.. image:: /photo/12V120LED2835.jpg
+.. image:: photo/12V120LED2835.jpg
 
 Horticulture Lighting 
 **************************
