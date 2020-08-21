@@ -8,7 +8,7 @@ Input:110-220V
 Output:DC24V 4.1A 
 
 
-.. image:: photo/20190326.jpg
+.. image:: photo/24V4.1A.jpg
 
 Controller
 **************
