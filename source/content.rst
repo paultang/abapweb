@@ -1,8 +1,0 @@
-test
-====
-
-lighting
-
-support
-
-accessories
