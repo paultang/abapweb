@@ -1,2 +1,6 @@
 test
 ====
+
+lighting
+support
+accessories
