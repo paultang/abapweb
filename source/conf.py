@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'as better as possib'
+project = 'Gree lamp and components'
 copyright = '2020, Paul'
 author = 'Paul'
 
