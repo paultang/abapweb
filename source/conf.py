@@ -18,8 +18,8 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Gree lamp and components'
-copyright = '2020, Paul'
-author = 'Paul'
+copyright = '2020, Lucia'
+author = 'Lucia'
 
 # The full version, including alpha/beta/rc tags
 release = '0.0.1'
