@@ -9,6 +9,7 @@
 
 输出接口： PWM 24V输出，最大5A
 
+控制方式： 手动
 .. image:: photo/ColorTemperature.jpg
 
 
@@ -20,6 +21,8 @@
 输入接口：1个24V DC输入
 
 输出接头：4个24V PWM输出，单路最大3A
+
+控制方式：网络WEB或APP控制
 
 .. image:: photo/ColorTemperature.jpg
 
