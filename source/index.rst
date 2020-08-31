@@ -21,17 +21,16 @@ Welcome to ABAP!
    
 .. toctree::
    :maxdepth: 2
-   :caption: 软件集成
+   :caption: 软件服务
    
    wiki
    
 .. toctree::
    :maxdepth: 2
-   :caption: 附录
+   :caption: 摄影摄像
    
-   outsource/photography
-   outsource/video
-   outsource/wiki
+   studio/photography
+   studio/video
    
 
 

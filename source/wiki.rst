@@ -27,3 +27,4 @@ Color Rendering Index颜色渲染指数，也称CRI，该指数衡量的是光�
 人脸一般在暖白（色温2700-3200k）下显得更加阳光健康，而珠宝在冷白光下显得更加的冷艳高贵(色温6500-7500k)
 
 .. image:: photo/ColorTemperature.jpg
+
