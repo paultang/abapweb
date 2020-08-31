@@ -10,6 +10,7 @@
 输出接口： PWM 24V输出，最大5A
 
 控制方式： 手动
+
 .. image:: photo/ColorTemperature.jpg
 
 
