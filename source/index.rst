@@ -26,7 +26,6 @@ Welcome to ABAP! 爱比爱拼
    :caption: 摄影摄像
    
    studio/photography
-   studio/video
    
 
 
