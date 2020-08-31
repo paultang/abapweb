@@ -13,26 +13,26 @@ Welcome to ABAP!
 
 .. toctree::
    :maxdepth: 2
-   :caption: 影像室
+   :caption: 硬件设备
    
-   photography
-   studiolight
-   video
-   synology
+   lights
+   controler
+   
    
 .. toctree::
    :maxdepth: 2
-   :caption: 文档网站
+   :caption: 软件集成
    
    wiki
+   webdevelopment
    
 .. toctree::
    :maxdepth: 2
-   :caption: 外包服务
+   :caption: 附录
    
    outsource/photography
    outsource/video
-   outsource/web
+   outsource/wiki
    
 
 
