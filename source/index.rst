@@ -24,7 +24,6 @@ Welcome to ABAP!
    :caption: 软件集成
    
    wiki
-   webdevelopment
    
 .. toctree::
    :maxdepth: 2
