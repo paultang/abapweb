@@ -18,7 +18,6 @@ Welcome to ABAP!
    contents
    photography
    video
-   conference
    synology
    
 .. toctree::
