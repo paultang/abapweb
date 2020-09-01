@@ -20,12 +20,13 @@ Welcome to ABAP! 爱比爱拼
    :caption: 软件服务
    
    wiki
-   
+
 .. toctree::
    :maxdepth: 2
-   :caption: 摄影摄像
+   :caption: 其它服务
    
    studio/photography
+   contact
 
    
 
