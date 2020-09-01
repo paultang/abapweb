@@ -42,5 +42,4 @@ Github文档管理
 * 视频会议环境搭建
 * 网页内容编辑
 
-.. image:: photo/ColorTemperature.jpg
 
