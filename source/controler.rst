@@ -25,8 +25,6 @@
 
 控制方式：网络WEB或APP控制
 
-.. image:: photo/ColorTemperature.jpg
-
 
 
 

@@ -26,5 +26,3 @@ Color Rendering Index颜色渲染指数，也称CRI，该指数衡量的是光�
 
 植物工厂灯光设计
 
-
-.. image:: ../photo/ColorTemperature.jpg
