@@ -55,6 +55,4 @@ html_theme = 'sphinx_rtd_theme'
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
 
-latex_elements = {
-  'extraclassoptions': 'openany,oneside'
-}
+latex_elements = {     'classoptions': ',openany,oneside',     'babel' : '\\usepackage[polish]{babel}' }
