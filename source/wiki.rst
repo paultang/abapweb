@@ -38,7 +38,7 @@ Github文档管理
 
 * 产品摄影
 * 视频录制
-* 直播环境创建
+* 视频会议环境搭建
 * 网页内容编辑
 
 .. image:: photo/ColorTemperature.jpg
