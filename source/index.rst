@@ -6,9 +6,9 @@
 Welcome to ABAP! 爱比爱拼
 =========================
 
-.. admonition:: ABAP： As Better As Possible
+.. admonition:: ABAP： As Better As Possible 出类拔萃
 
-    在竞争激烈的市场中，通过高质量的图片、视频和详尽细致的说明文档，帮助你与众不同。
+    在竞争激烈的市场中，通过高质量的图片、视频吸引用户，用详尽细致的说明文档，服务好你的客户。
 
 
 .. toctree::
