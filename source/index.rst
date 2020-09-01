@@ -29,13 +29,3 @@ Welcome to ABAP! 爱比爱拼
    contact
 
    
-
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
