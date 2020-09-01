@@ -11,7 +11,7 @@
 
 控制方式： 手动
 
-.. image:: photo/ColorTemperature.jpg
+.. image:: photo/dimmer.png
 
 
 
