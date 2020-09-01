@@ -32,8 +32,10 @@ Welcome to ABAP! 爱比爱拼
    studio/photography
    contact
 
-   
-* 联系人：唐先生
-* 邮件：bill@abap.sale
+
+.. admonition:: 联系我
+
+    邮件：bill@abap.sale  
+ 
 
 .. image:: photo/contact.jpg
