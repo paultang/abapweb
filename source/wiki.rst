@@ -30,7 +30,7 @@ reStructure 文档规范写作
 
 Github文档管理
 
-.. image:: photo/ColorTemperature.jpg
+.. image:: photo/sphinx.png
 
 
 外包制作
