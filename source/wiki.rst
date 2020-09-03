@@ -7,7 +7,6 @@
 * 自动生成PDF文档
 * 生成产品目录
 * 生成可打印文档
-
 .. image:: photo/download.png
 
 
