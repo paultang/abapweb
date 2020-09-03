@@ -29,7 +29,6 @@ Welcome to ABAP! 爱比爱拼
    :caption: 其它服务
    
    studio/photography
-   contact
 
 .. admonition:: 联系我
 
