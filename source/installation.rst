@@ -14,5 +14,8 @@ ESP32 开发环境安装
 
 .. image:: /image/devboard.png
 
+.. image:: /image/devboard2.png
+
+
 4: 再次从菜单 工具>开发板>esp Arduino，确认已经安装好。
 
