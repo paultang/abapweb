@@ -33,7 +33,7 @@ Welcome to ABAP! 爱比爱拼
 
 .. toctree::
    :maxdepth: 2
-   :caption: 控制板
+   :caption: Boards+
    
    controler
 
