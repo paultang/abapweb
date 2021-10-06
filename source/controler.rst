@@ -65,6 +65,6 @@ Pin 2-4	负极（PWM）
 3 pin 2.54mm 接口；
 正极	12V DC；
 负极	1个；
-速度调节	GPIO18 PWM
+速度调节	PWM
 
 .. image:: /image/4M10V.jpg
