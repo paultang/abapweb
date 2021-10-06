@@ -25,6 +25,11 @@ Welcome to ABAP! 爱比爱拼
 .. admonition:: ABAP： As Better As Possible 出类拔萃
 
     在竞争激烈的市场中，通过高质量的图片、视频吸引用户，用详尽细致的说明文档，服务好你的客户。
+.. toctree::
+   :maxdepth: 2
+   :caption: Arduino And ESP32
+
+   installation
 
 .. toctree::
    :maxdepth: 2
@@ -34,7 +39,7 @@ Welcome to ABAP! 爱比爱拼
 
 .. toctree::
    :maxdepth: 2
-   :caption: 灯
+   :caption: 摄影灯
    
    lights
 
