@@ -1,5 +1,5 @@
-ESP32 开发环境安装
-================
+Arduino IDE 上安装 ESP32库
+=========================
 
 1: 打开Arduino IDE，进入Arduino>Preference
 
