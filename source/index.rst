@@ -37,21 +37,15 @@ Welcome to ABAP! 爱比爱拼
    :caption: 灯
    
    lights
-   
-.. toctree::
-   :maxdepth: 2
-   :caption: 服务
-   
-   wiki
 
 .. toctree::
    :maxdepth: 2
-   :caption: 其它服务
+   :caption: 定制服务
    
    studio/photography
 
 .. admonition:: 联系我
 
-    邮件：bill@abap.sale  
+    邮件：billtang@asap.sale  
 
 .. image:: photo/contact.jpg
