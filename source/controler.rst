@@ -17,7 +17,7 @@ ESP32是一个开源的，集成了WIFI+Bluetooth的Soc。ESP32开发板性价�
 
 控制方式： HOMEKIT APP或WEB
 
-.. image:: photo/dimmer.png
+.. image:: /image/3M2P.png
 
 
 
@@ -31,6 +31,7 @@ ESP32是一个开源的，集成了WIFI+Bluetooth的Soc。ESP32开发板性价�
 
 控制方式：HomeKit APP或网页控制
 
+.. image:: /image/3M2P.png
 
 RGB控制器
 ------------------------
@@ -65,4 +66,4 @@ Pin 2-4	负极（PWM）
 负极	1个；
 速度调节	GPIO18 PWM
 
-
+.. image:: /image/4M10v.jpg
