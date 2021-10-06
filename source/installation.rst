@@ -3,7 +3,7 @@ ESP32 开发环境安装
 
 1: 打开Arduino IDE，进入Arduino>Preference
 
-.. image:: /image/prefrence.png
+.. image:: /image/preference.png
 
 2: 在附加开发板管理服务器网址：处添加：确定添加。
 
