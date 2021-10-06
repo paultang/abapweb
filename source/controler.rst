@@ -31,7 +31,7 @@ ESP32是一个开源的，集成了WIFI+Bluetooth的Soc。ESP32开发板性价�
 
 控制方式：HomeKit APP或网页控制
 
-.. image:: /image/3M2P.png
+.. image:: /image/2m3p.png
 
 RGB控制器
 ------------------------
