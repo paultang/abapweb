@@ -28,14 +28,19 @@ Welcome to ABAP! 爱比爱拼
 
 .. toctree::
    :maxdepth: 2
-   :caption: 硬件设备
+   :caption: 控制板
    
-   lights
    controler
-      
+
 .. toctree::
    :maxdepth: 2
-   :caption: 软件服务
+   :caption: 灯
+   
+   lights
+   
+.. toctree::
+   :maxdepth: 2
+   :caption: 服务
    
    wiki
 
