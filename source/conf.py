@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'as better as possible'
+project = '爱比爱拼'
 copyright = '2020, Paul'
 author = 'Paul'
 
