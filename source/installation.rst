@@ -10,7 +10,7 @@ Arduino IDE 上安装 ESP32库
 .. image:: /image/preference2.png
 
 
-3: 从Arduino IDE 的菜单工具>开发板>开发板管理器， 搜索ESP32，点击安装esp32 by expressif system.
+3: 从Arduino IDE 的菜单进入 工具>开发板>开发板管理器， 搜索ESP32，点击安装esp32 by expressif system.
 
 .. image:: /image/devboard.png
 
@@ -18,6 +18,6 @@ Arduino IDE 上安装 ESP32库
 
 .. image:: /image/devboard3.png
 
-4: 再次从菜单 工具>开发板>esp Arduino，确认已经安装好。
+4: 再次从菜单进入 工具>开发板>esp Arduino，确认已经安装好。
 
 .. image:: /image/devboard4.png
