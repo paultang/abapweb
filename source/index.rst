@@ -32,7 +32,7 @@ Welcome to ABAP! 爱比爱拼
    installation
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Boards+
    
    controler
