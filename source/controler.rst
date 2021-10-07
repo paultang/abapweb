@@ -67,6 +67,7 @@ Pin 2-4	负极（PWM）
 负极	1个；
 速度调节	PWM
 
+.. image:: /image/rgbcontroler.png 
 
 4路0-10V控制器 4M10v 
 ----------------------------
