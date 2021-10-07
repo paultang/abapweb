@@ -33,13 +33,13 @@
 
 .. toctree::
    :maxdepth: 2
-   :caption: Boards+
+   :caption: 控制器
    
    controler
 
 .. toctree::
    :maxdepth: 2
-   :caption: Lights
+   :caption: 灯
    
    lights
 
