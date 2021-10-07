@@ -79,3 +79,5 @@ Pin 2-4	负极（PWM）
 控制方式：HomeKit APP或网页控制
 
 .. image:: /image/4M10V.jpg
+
+.. youtube:: RQOhrgRd7N8
