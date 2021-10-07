@@ -88,4 +88,4 @@ Pin 2-4	负极（PWM）
 
 .. raw:: html
    
-   <iframe src="//player.bilibili.com/player.html?aid=250922131&bvid=BV1Vv411g7GG&cid=419896189&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+   <iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=250922131&bvid=BV1Vv411g7GG&cid=419896189&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
