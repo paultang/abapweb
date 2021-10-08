@@ -18,9 +18,6 @@
         </tbody>
     </table>
 
-=========================
-爱比爱拼
-=========================
 
 .. admonition:: ABAP： As Better As Possible 出类拔萃
 
