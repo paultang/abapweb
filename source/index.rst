@@ -44,7 +44,7 @@
 
 .. toctree::
    :maxdepth: 2
-   :caption: 无线连接，网页控制
+   :caption: DIY灯控
 
    installation
 
