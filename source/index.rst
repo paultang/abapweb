@@ -48,6 +48,7 @@
    :caption: 定制服务
    
    studio/photography
+   studio/obs 
 
 .. admonition:: 联系我
 
