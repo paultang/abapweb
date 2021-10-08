@@ -42,12 +42,6 @@
    studio/photography
    studio/obs 
 
-.. toctree::
-   :maxdepth: 2
-   :caption: DIY灯控
-
-   installation
-
 .. admonition:: 联系我
 
     邮件：billtang@asap.sale  
