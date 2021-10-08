@@ -6,3 +6,5 @@
 | 3灯 
 | 2个摄影 
 | 1个MicroPhone
+
+.. image:: ../image/asapobs.png
