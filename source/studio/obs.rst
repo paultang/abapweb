@@ -2,9 +2,8 @@
 +++++++++++++++++++
 
 组成：
-
 | 3灯 
-| 2个摄影 
-| 1个MicroPhone
+| 2个相机 
+| 1个Iphone
 
 .. image:: ../image/asapobs.png
