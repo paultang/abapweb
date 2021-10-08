@@ -25,7 +25,7 @@
 
 .. toctree::
    :maxdepth: 2
-   :caption: 控制器
+   :caption: WIFI控制器
    
    controler
 
@@ -41,7 +41,7 @@
    
    studio/photography
    studio/obs 
-   
+
 .. toctree::
    :maxdepth: 2
    :caption: 无线连接，网页控制
