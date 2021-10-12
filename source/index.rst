@@ -19,7 +19,7 @@
     </table>
 
 
-.. admonition:: ABAP： As Better As Possible 出类拔萃
+.. admonition:: As Soon As Possible 出类拔萃
 
     在竞争激烈的电商时代，企业通过高质量的图片、丰富的视频内容塑造品牌，促进销售至关重要。我们所做的就是帮助企业高效地完成这个艰巨任务。
 
