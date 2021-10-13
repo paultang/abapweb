@@ -28,19 +28,19 @@
 
 .. toctree::
    :maxdepth: 2
-   :caption: WIFI控制器
+   :caption: WIFI灯光控制器
    
    controler
 
 .. toctree::
    :maxdepth: 2
-   :caption: 灯
+   :caption: 摄影摄像灯具
    
    lights
 
 .. toctree::
    :maxdepth: 2
-   :caption: 定制服务
+   :caption: Studio定制服务
    
    studio/photography
    studio/obs 
