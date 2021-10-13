@@ -3,7 +3,7 @@
 | 随着LED技术和散热工艺的不断进步，大功率LED常亮灯已经可以达到闪光灯的亮度。
 | WIFI 替代RF（传统无线遥控），可以把多个灯组成多个组，控制更灵活，更方便。
 
-.. image:: /image/networktop.png 
+.. image:: /image/photography.png 
 
 三路单色温控制器
 --------------------------
