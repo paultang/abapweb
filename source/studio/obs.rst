@@ -6,4 +6,4 @@ OBS直播，制作视频
 | 2个相机 
 | 1个Iphone
 
-.. image:: ../image/asapobs.png
+.. image:: ../image/photographyobs.png
