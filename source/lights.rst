@@ -5,7 +5,7 @@
 
 人脸一般在暖白（色温2700-3200k）下显得更加阳光健康，而珠宝在冷白光下显得更加的冷艳高贵(色温6500-7500k)
 
-.. image:: photo/twocolor.png
+.. image:: image/onecolor.png
 
 * 电压：24V
 * 功率：56W
@@ -28,7 +28,7 @@
 RGB效果灯
 ---------------------
 
-.. image:: image/onecolor.png
+.. image:: image/rgbpanel.png
 
 * 电压：24V
 * 功率：56W
