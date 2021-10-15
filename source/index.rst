@@ -3,6 +3,9 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
+爱试爱拼 出类拔萃
+==================
+
 .. raw:: html
 
     <table style="width: 100%; margin: 20px 20px">
@@ -23,24 +26,22 @@
 
     在竞争激烈的电商时代，企业通过高质量的图片、丰富的视频内容塑造品牌，促进销售至关重要。我们所做的就是帮助企业高效地完成这个艰巨任务。
 
-爱试爱拼 出类拔萃
-==================
 
 .. toctree::
    :maxdepth: 2
-   :caption: WIFI灯光控制器
+   :caption: 灯光WIFI控制器
    
    controler
 
 .. toctree::
    :maxdepth: 2
-   :caption: 摄影摄像灯具
+   :caption: 摄影摄像灯
    
    lights
 
 .. toctree::
    :maxdepth: 2
-   :caption: Studio定制服务
+   :caption: Studio定制
    
    studio/photography
    studio/obs 
