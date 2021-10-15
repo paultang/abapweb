@@ -7,6 +7,6 @@
 * 1个单色温控制器
 * 3个单色温灯 
 * 2个相机（DSLR或摄像机） 
-* 1个Iphone
+* 1个手机
 
 .. image:: ../image/photographyobs.png
