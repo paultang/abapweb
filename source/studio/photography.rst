@@ -7,7 +7,7 @@
 .. image:: ../image/styles.png 
 
 
-光源选择
+LED灯珠的选择
 ++++++++++++++++++++
 
 采用高显色指数CRI 高TLCI指数的LED灯珠。
@@ -36,7 +36,7 @@ TLCI 指数 （电视灯光一致性指数） 的制定是为了解决传统�
 无线控制网络
 ++++++++++++++
 
-.. image:: ../image/networktop.png 
+.. image:: ../image/photography.png 
 | 1个mini服务器
 | 6个单色温灯 色温5600K
 | 2个3通道无线灯控
